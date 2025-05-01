@@ -2,15 +2,8 @@ body {
   font-size: 30px
 }
 
-pre {
-  font-size: 30px
-}
-
 @media screen and (max-width: 1000px) {
-  h1 {
-     color: blue
-  }
   body {
-     background-color: blue
-  }
+  font-size: 60px
+}
 }
