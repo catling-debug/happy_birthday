@@ -7,7 +7,7 @@ pre {
 }
 
 @media (max-width: 4000px) {
-  pre {
+  body {
      color: blue;
   }
 }
