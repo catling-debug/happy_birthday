@@ -6,7 +6,7 @@ pre {
   font-size: 30px
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1500px) {
   h1 {
      color: blue
   }
