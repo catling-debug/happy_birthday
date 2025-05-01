@@ -6,8 +6,8 @@ pre {
   font-size: 30px
 }
 
-@media screen and (max-width: 1000px) {
+@media (max-width: 4000px) {
   pre {
-     color: blue
+     color: blue;
   }
 }
